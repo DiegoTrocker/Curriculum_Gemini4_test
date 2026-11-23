@@ -1,0 +1,6 @@
+{
+  "name": "Diego Trocker — Engineering Curriculum & 3D Lab",
+  "description": "Editorial developer curriculum, live GitHub project showcase, interactive Three.js 3D lab, self-hosted utilities, and local Markdown technical blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
